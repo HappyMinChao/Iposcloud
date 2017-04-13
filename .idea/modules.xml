@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Iposcloud_admin/Iposcloud_admin.iml" filepath="$PROJECT_DIR$/Iposcloud_admin/Iposcloud_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iposcloud_gate/Iposcloud_gate.iml" filepath="$PROJECT_DIR$/Iposcloud_gate/Iposcloud_gate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iposcloud_registry/Iposcloud_registry.iml" filepath="$PROJECT_DIR$/Iposcloud_registry/Iposcloud_registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceDemo/ServiceDemo.iml" filepath="$PROJECT_DIR$/ServiceDemo/ServiceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudDemo.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lefuds/lefuds.iml" filepath="$PROJECT_DIR$/lefuds/lefuds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testds/testds.iml" filepath="$PROJECT_DIR$/testds/testds.iml" />
+    </modules>
+  </component>
+</project>

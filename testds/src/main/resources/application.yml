@@ -1,0 +1,18 @@
+spring:
+  boot:
+    admin:
+      url: http://localhost:8090
+      client:
+        enabled: true
+  application:
+    name: testds
+server:
+  port: 8080
+logging:
+  level:
+   root: info
+#eureka:
+#  instance:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://admin:admin@localhost:8761/eureka/
